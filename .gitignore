@@ -1,0 +1,5 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore input.css file in the dist directory
+src/css/dist/input.css
